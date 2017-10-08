@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo aosp_g8441-userdebug
+add_lunch_combo lineage_g8441-userdebug
